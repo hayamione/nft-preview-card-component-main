@@ -35,7 +35,7 @@ body {
 
 .image-thumbnail {
   position: relative;
-  background-image: url(../images/image-equilibrium.jpg);
+  background-image: url(images/image-equilibrium.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   width: 302px;
@@ -59,7 +59,7 @@ body {
 
 .icon-view {
   position: absolute;
-  background-image: url(../images/icon-view.svg);
+  background-image: url(images/icon-view.svg);
   background-repeat: no-repeat;
   background-size: contain;
   width: 50px;
@@ -119,7 +119,7 @@ body {
 }
 
 .price-icon {
-  background-image: url(../images/icon-ethereum.svg);
+  background-image: url(images/icon-ethereum.svg);
   background-repeat: no-repeat;
   background-size: contain;
   width: 18px;
@@ -132,7 +132,7 @@ body {
 }
 
 .time-icon {
-  background-image: url(../images/icon-clock.svg);
+  background-image: url(images/icon-clock.svg);
   background-repeat: no-repeat;
   background-size: contain;
   width: 18px;
@@ -158,7 +158,7 @@ hr {
 }
 
 .avatar {
-  background-image: url(../images/image-avatar.png);
+  background-image: url(images/image-avatar.png);
   background-repeat: no-repeat;
   background-size: contain;
   width: 30px;
