@@ -206,7 +206,7 @@ span:hover {
 
   .image-thumbnail {
     position: relative;
-    background-image: url(../images/image-equilibrium.jpg);
+    background-image: url(images/image-equilibrium.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     width: 274px;
